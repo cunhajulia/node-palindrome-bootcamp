@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  background-image: url(https://media.giphy.com/media/xTk9ZP2IPCyHl1JSP6/giphy.gif);
+  background-size: cover;
+  padding: 100px;
+  color:black;
+  font-family: 'Quicksand';
+}
+
+h1{
+  color: black;
+}
+button{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 3px;
+  width: 10%;
+  font-family: 'Quicksand';
+}
